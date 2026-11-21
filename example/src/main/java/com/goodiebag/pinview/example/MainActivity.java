@@ -1,8 +1,8 @@
-package com.goodiebag.pinview.example;
+﻿package com.goodiebag.pinview.example;
 
 import android.graphics.Color;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.widget.Toast;
 
 import com.goodiebag.pinview.Pinview;
@@ -31,3 +31,4 @@ public class MainActivity extends AppCompatActivity {
         pinview5.showCursor(true);
     }
 }
+
